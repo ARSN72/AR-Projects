@@ -1,0 +1,29 @@
+- !<AssetImportMetadata/4348a8e1-5514-49b4-8570-06c9904afeec>
+  ImportedAssetIds:
+    Pass: !<reference> c22240c4-5053-4f16-bdd3-b7658fa42e79
+    ui: !<reference> 627fce96-e711-4672-b645-2b82838075bd
+  ImporterName: PassImporter
+  PrimaryAsset: !<reference> c22240c4-5053-4f16-bdd3-b7658fa42e79
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  DependentFiles:
+    - includes/blend_modes.glsl
+    - includes/blend_modes_eyecolor.glsl
+    - includes/debug.glsl
+    - includes/envmap.glsl
+    - includes/fizzle.glsl
+    - includes/importance_sampling.glsl
+    - includes/oit.glsl
+    - includes/pbr.glsl
+    - includes/rgbhsl.glsl
+    - includes/spherical_harmonics.glsl
+    - includes/uber_debug.glsl
+    - includes/uber_lighting.glsl
+    - includes/uber_surface_properties.glsl
+    - includes/utils.glsl
+    - uber.ui
+  ImporterSettings: !<AssetImporterSettings/c69e919e-ea26-49ab-a832-93e6a6f4e910>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

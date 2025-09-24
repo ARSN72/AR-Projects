@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Overlay",
+  "identifier": "texture:325-d4fdf088-9b48-4977-81db-01941d134238",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "de4125681ad63818da6700f40e9c7ea3",
+  "assetLocator": "textures/Overlay.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:339-d4fdf088-9b48-4977-81db-01941d134238",
+    "textureExportConfig:341-d4fdf088-9b48-4977-81db-01941d134238",
+    "textureExportConfig:343-d4fdf088-9b48-4977-81db-01941d134238"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "de4125681ad63818da6700f40e9c7ea3",
+      "colorCount": 77283,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.670911471980088,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}

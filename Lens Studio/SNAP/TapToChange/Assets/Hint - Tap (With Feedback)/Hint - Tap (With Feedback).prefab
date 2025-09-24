@@ -1,0 +1,215 @@
+- !<ObjectPrefab/61a55dbf-ecdc-478e-b687-a88b112a959c>
+  PackagePath: ""
+  objects:
+    - !<own> e6226dcc-ccca-48c9-9c38-7a1396b90e6e
+  LazyLoading: false
+  RetainAssets: true
+- !<ScreenTransform/05aa446c-ecb8-4e3c-ac94-ec2f41f6cf7b>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/2a33b872-2e65-4cc7-a53b-41f21a257591>
+  PrefabRemaps:
+    []
+  Name: Tap
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: -0.096775, y: -0.750613, z: -80.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a73c6aa9-f981-4bf4-9812-a7815b10f877
+    - !<own> b9c94b02-4efa-4ba5-97e7-be494c56a977
+    - !<own> 2ccc139a-01c8-4feb-a99d-255a28ed6ab6
+- !<Image/2ccc139a-01c8-4feb-a99d-255a28ed6ab6>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 30
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3ab1f96c-d0dc-43cf-9b3b-423ca5228c9f
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScreenRegionComponent/2d4c9d29-3f40-4374-9945-b17d7952b767>
+  PrefabRemaps:
+    []
+  Name: Screen Region
+  Enabled: true
+  ScreenRegionType: FullFrame
+  ResizeWithKeyboard: false
+- !<ScreenTransform/a73c6aa9-f981-4bf4-9812-a7815b10f877>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: -0.096775, y: -0.750613, z: -80.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -0.289531
+    bottom: -0.193975
+    right: 0.253574
+    top: 0.043853
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<SceneObject/aa69ee2a-cab8-4cac-8d62-3766360cc0ad>
+  PrefabRemaps:
+    []
+  Name: Hint_-_Tap_With_Feedback___PLACE_IN_ORTHO_CAM
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2a33b872-2e65-4cc7-a53b-41f21a257591
+  Components:
+    - !<own> 05aa446c-ecb8-4e3c-ac94-ec2f41f6cf7b
+    - !<own> 2d4c9d29-3f40-4374-9945-b17d7952b767
+- !<ScriptComponent/b9c94b02-4efa-4ba5-97e7-be494c56a977>
+  PrefabRemaps:
+    []
+  Name: CustomHint
+  Enabled: true
+  ScriptAsset: !<reference> 5aeadaef-2729-4125-a3a3-5805905fbe9c
+  ScriptInputsDefault:
+    hintType: true
+    text: true
+    mesh: true
+    appearDelay: true
+    repeatCount: true
+    advanced: true
+    tweenPrintDebugLog: true
+    disableHiding: true
+    hideIfCapture: true
+    hideOnCamSwitch: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      hintType: image
+      text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      image: !<reference.Image> 2ccc139a-01c8-4feb-a99d-255a28ed6ab6
+      mesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      camera: 2
+      appearDelay: !<float> 0.000000
+      appearDuration: !<float> 0.000000
+      screenDuration: 2.500000
+      disappearDuration: 0.300000
+      repeatCount: 3
+      advanced: false
+      tweenPrintDebugLog: false
+      disableHiding: false
+      showOnce: true
+      hideIfCapture: true
+      hideOnCamSwitch: true
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/e6226dcc-ccca-48c9-9c38-7a1396b90e6e>
+  PrefabRemaps:
+    []
+  Name: Orthographic Camera
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 40.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> aa69ee2a-cab8-4cac-8d62-3766360cc0ad
+  Components:
+    - !<own> f7efd4d3-b455-41e8-904d-e7c44dd8aace
+- !<Camera/f7efd4d3-b455-41e8-904d-e7c44dd8aace>
+  PrefabRemaps:
+    []
+  Name: Camera
+  Enabled: true
+  renderLayer: 1048576
+  MipmapLevel: 0
+  RenderOrder: 2
+  Size: 20.000000
+  Near: 1.000000
+  Far: 200.000000
+  Fov: 60.000004
+  ClearColor: !<CameraClearColor>
+    Mode: None
+    Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+    InputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  ClearDepth: !<CameraClearDepth>
+    Mode: Value
+    Value: 1.000000
+    InputTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  Aspect: 1.000000
+  CameraType: Orthographic
+  DepthMode: Regular
+  DeviceProperty: All
+  AspectPreset: Custom
+  OitLayers: NoOit
+  RenderTarget: !<reference> 923415f5-4245-4675-ade1-6d69d6d23e71
+  DepthStencilRenderTarget: !<reference> 00000000-0000-0000-0000-000000000000
+  MaskTexture: !<reference> 00000000-0000-0000-0000-000000000000
+  RayTracing: !<reference> 00000000-0000-0000-0000-000000000000

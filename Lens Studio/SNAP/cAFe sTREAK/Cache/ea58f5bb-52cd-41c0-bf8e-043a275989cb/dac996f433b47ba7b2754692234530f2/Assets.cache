@@ -1,0 +1,13 @@
+- !<AssetCache/dac996f4-33b4-7ba7-b275-4692234530f2>
+  AssetFiles:
+    462a3aeb-30f9-4a17-a1fb-5b50ddcb0859: ea58f5bb-52cd-41c0-bf8e-043a275989cb/dac996f433b47ba7b2754692234530f2/Data/9.jpg
+  Assets:
+    - !<FileTexture/462a3aeb-30f9-4a17-a1fb-5b50ddcb0859>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1080
+        Height: 1441
+  SourceHash: dac996f433b47ba7b2754692234530f2
+  FileHash: 4b9fc24e087d92c78d8338ab3d693221
+  NativePackageItems:
+    []

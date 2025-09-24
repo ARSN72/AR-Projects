@@ -1,0 +1,13 @@
+- !<AssetCache/a823e4e6-1243-e9d2-9dc7-2160b833967f>
+  AssetFiles:
+    09b1e47c-47a8-4f94-bce1-2d0bbaa7e8a8: c958a83c-f1cb-47e7-8130-e36f70bc2f61/a823e4e61243e9d29dc72160b833967f/Data/15.jpg
+  Assets:
+    - !<FileTexture/09b1e47c-47a8-4f94-bce1-2d0bbaa7e8a8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1080
+        Height: 1350
+  SourceHash: a823e4e61243e9d29dc72160b833967f
+  FileHash: 8cdb37fae95a20716d61864eea0963d3
+  NativePackageItems:
+    []

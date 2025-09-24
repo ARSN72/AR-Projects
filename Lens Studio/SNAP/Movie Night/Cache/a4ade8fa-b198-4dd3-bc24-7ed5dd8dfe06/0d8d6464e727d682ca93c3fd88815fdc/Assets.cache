@@ -1,0 +1,14 @@
+- !<AssetCache/dd5636b1-6bf0-4659-a0ef-3b234d46da18>
+  AssetFiles:
+    46bcb1e7-7951-4e0b-b870-30056d1346e7: a4ade8fa-b198-4dd3-bc24-7ed5dd8dfe06/0d8d6464e727d682ca93c3fd88815fdc/Data/Screenshot_20240621_161913_Instagram.jpg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/46bcb1e7-7951-4e0b-b870-30056d1346e7>
+      PackagePath: ""
+      Width: 1080
+      Height: 1902
+  SourceHash: 0d8d6464e727d682ca93c3fd88815fdc
+  FileHash: d0bc9bcd02c0c81e2b251cdf8c74fc72
+  NativePackageItems:
+    []

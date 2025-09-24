@@ -1,0 +1,42 @@
+{
+  "modelName": "texture",
+  "name": "High_Contrast_BW",
+  "identifier": "texture:1836809-63e829de-40bf-4207-853c-a4e17e8d640e",
+  "sourceIdentifier": "color_lut_model:1836807-63e829de-40bf-4207-853c-a4e17e8d640e",
+  "alphaPremultiplicationMode": "none",
+  "assetDataHash": "dd26b6e6483bc62e11df6281d9c36b4a",
+  "assetLocator": "textures/High_Contrast_BW.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:1836811-63e829de-40bf-4207-853c-a4e17e8d640e",
+    "textureExportConfig:1836813-63e829de-40bf-4207-853c-a4e17e8d640e",
+    "textureExportConfig:1836815-63e829de-40bf-4207-853c-a4e17e8d640e"
+  ],
+  "externalSourceLocator": "sparkarstudio://arlibrary/facebook/color_lut/216043009958156",
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 32,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "dd26b6e6483bc62e11df6281d9c36b4a",
+      "colorCount": 330,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.2060879154118,
+      "pixelsHigh": 32,
+      "pixelsWide": 1024
+    }
+  ]
+}

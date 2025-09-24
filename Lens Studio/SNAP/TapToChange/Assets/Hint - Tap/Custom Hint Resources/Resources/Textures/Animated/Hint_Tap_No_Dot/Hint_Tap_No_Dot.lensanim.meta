@@ -1,0 +1,30 @@
+- !<AssetImportMetadata/c4cbc51f-24a1-4f06-972f-72af3f2193a6>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> 05d5e762-d6fa-40a1-9799-6125e4b9437e
+    LPD_87_Hint_TAP_out_v01.png: !<reference> f79ca2d7-ba4f-47dc-a552-e7f6d647edd9
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> 05d5e762-d6fa-40a1-9799-6125e4b9437e
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpackedTransparent
+  ExtraData:
+    AssetLibraryId: 4r856gH7zOj7hrNIhuxc61
+  AssetDataMap:
+    AnimatedTexture: !<own> 9ba89384-2825-4480-a0d2-0d4b10c0f80d
+  DependentFiles:
+    - LPD_87_Hint_TAP_out_v01.png
+  ImporterSettings: !<AssetImporterSettings/25068d5d-8f3c-45fe-9004-b0d9e69274b7>
+    {}
+  CompressionSettings: !<SingleCompressionSettings/3ef0c124-d9bd-4aea-a7c2-ef2a7a96f86d>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AnimatedTextureData/9ba89384-2825-4480-a0d2-0d4b10c0f80d>
+  AutoPlay: false
+  Reversed: false
+  PingPong: false
+  CurrentSequence: LPD_87_Hint_TAP_out_v01
+  KeyFramesData:
+    LPD_87_Hint_TAP_out_v01:
+      - time: 0.000000
+        value: 0
+      - time: 1.466667
+        value: 22

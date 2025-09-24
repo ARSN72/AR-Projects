@@ -1,0 +1,14 @@
+- !<AssetCache/db32e1fb-e547-490f-b1d5-fccdf7cff1e4>
+  AssetFiles:
+    4542444e-6859-469f-b862-a2bce332b29f: 3005c89a-84ad-40f9-b531-bfc3a81f2354/5e78d1bea45fecf6955c4c5da84021fd/Data/Snapchat-17388804.jpg
+  AssetCurrentFiles:
+    4542444e-6859-469f-b862-a2bce332b29f: 3005c89a-84ad-40f9-b531-bfc3a81f2354/5e78d1bea45fecf6955c4c5da84021fd/Data/Snapchat-17388804_performance_Medium.pvr
+  Assets:
+    - !<FileTexture/4542444e-6859-469f-b862-a2bce332b29f>
+      PackagePath: ""
+      Width: 1152
+      Height: 2048
+  SourceHash: 5e78d1bea45fecf6955c4c5da84021fd
+  FileHash: 25adb293b6ed2b639ba16fa7a583734e
+  NativePackageItems:
+    []

@@ -1,0 +1,30 @@
+- !<AssetCache/2cabe143-29c4-e411-dec2-47523796bcec>
+  AssetFiles:
+    f4d06b11-939d-489b-9d3f-bd96f11d3f45: da5a0719-808d-4ee0-8002-e1cdfbf0a513/2cabe14329c4e411dec247523796bcec/Data/Hint_Tap.lensanim
+    fd722b25-a3e4-4f55-adcb-9845e43d357a: da5a0719-808d-4ee0-8002-e1cdfbf0a513/2cabe14329c4e411dec247523796bcec/Data/LPD_87_Hint_TAP_new.png
+  Assets:
+    - !<AnimatedTexture/f4d06b11-939d-489b-9d3f-bd96f11d3f45>
+      PackagePath: ""
+      keyFrames:
+        LPD_87_Hint_TAP_new:
+          - time: 0.000000
+            value: 0
+          - time: 1.466667
+            value: 22
+      ReverseSupported: true
+      FrameSize: {x: 108, y: 103}
+      AnimationSequences:
+        LPD_87_Hint_TAP_new: 22
+      AutoPlay: false
+      Reversed: false
+      PingPong: false
+      CurrentSequence: LPD_87_Hint_TAP_new
+    - !<FileTexture/fd722b25-a3e4-4f55-adcb-9845e43d357a>
+      PackagePath: LPD_87_Hint_TAP_new.png
+      FileInfo: !<FileTextureInfo>
+        Width: 218
+        Height: 983
+  SourceHash: 2cabe14329c4e411dec247523796bcec
+  FileHash: e1c718fde58df88497a05798062c433a
+  NativePackageItems:
+    []

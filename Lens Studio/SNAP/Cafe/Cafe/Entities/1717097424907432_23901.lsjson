@@ -1,0 +1,17 @@
+{
+    "1717097424907432:23901": {
+        "IResourceController": {
+            "name": "Body Tracking Asset",
+            "type": 24,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717097424873033:23877"
+        },
+        "IResourceManager": {
+            "uid": "1717097424873033:23877",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+- !<AssetImportMetadata/4a753429-fc1d-410f-a203-9dc633c13fc4>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 5aeadaef-2729-4125-a3a3-5805905fbe9c
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 5aeadaef-2729-4125-a3a3-5805905fbe9c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: bc4bByCodaf0bJFaFYxn4
+  AssetDataMap:
+    JavaScriptAsset: !<own> 2172caf9-c857-491f-a183-603da9f5a1b3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/f513d9e2-53a7-4d3c-8945-2ed4c06caac1>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/2172caf9-c857-491f-a183-603da9f5a1b3>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    advanced: false
+    appearDelay: false
+    appearDuration: false
+    camera: false
+    disableHiding: false
+    disappearDuration: false
+    hideIfCapture: false
+    hideOnCamSwitch: false
+    hintType: false
+    image: false
+    mesh: false
+    repeatCount: false
+    screenDuration: false
+    showOnce: false
+    text: false
+    tweenPrintDebugLog: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - hintType: image
+      text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      mesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      camera: 0
+      appearDelay: !<float> 0.000000
+      appearDuration: 0.800000
+      screenDuration: !<float> 2.000000
+      disappearDuration: 0.800000
+      repeatCount: 3
+      advanced: false
+      tweenPrintDebugLog: false
+      disableHiding: false
+      showOnce: false
+      hideIfCapture: true
+      hideOnCamSwitch: true
+  ScriptTypes:
+    -
+      {}

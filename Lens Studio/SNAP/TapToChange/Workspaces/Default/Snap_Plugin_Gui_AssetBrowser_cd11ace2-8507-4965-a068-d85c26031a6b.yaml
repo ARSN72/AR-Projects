@@ -1,0 +1,76 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 70
+    values:
+      - 15.jpg
+      - 16.jpg
+      - 17.jpg
+      - 18 18.jpg
+      - 18.jpg
+      - 19 19.jpg
+      - 19.jpg
+      - 2.jpg
+      - 20.jpg
+      - 21.jpg
+      - 22.jpg
+      - 23.jpg
+      - 24.jpg
+      - 25.jpg
+      - 29.jpg
+      - 3.jpg
+      - 30.jpg
+      - 32.jpg
+      - 33.jpg
+      - 36.jpg
+      - 4.jpg
+      - 5.jpg
+      - Hint - Tap
+      - Hint - Tap (With Feedback)/.hidden
+      - Hint - Tap (With Feedback)/.hidden/SpriteGraphPreset.lsmat.mat
+      - Hint - Tap (With Feedback)/.hidden/SpriteGraphPreset1.lsmat.ss_graph
+      - Hint - Tap (With Feedback)/Custom Hint Resources
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources/Textures
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources/Textures/Animated
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap/Hint_Tap.lensanim
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap/Hint_Tap.lensanim/Hint_Tap
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap/Hint_Tap.lensanim/LPD_87_Hint_TAP_new.png
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Scripts
+      - Hint - Tap (With Feedback)/Custom Hint Resources/Scripts/CustomHint.js
+      - Hint - Tap (With Feedback)/Hint - Tap (With Feedback).prefab
+      - Hint - Tap/.hidden
+      - Hint - Tap/.hidden/SpriteGraphPreset.lsmat.mat
+      - Hint - Tap/.hidden/SpriteGraphPreset1.lsmat.ss_graph
+      - Hint - Tap/Custom Hint Resources
+      - Hint - Tap/Custom Hint Resources/Resources
+      - Hint - Tap/Custom Hint Resources/Resources/Textures
+      - Hint - Tap/Custom Hint Resources/Resources/Textures/Animated
+      - Hint - Tap/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap_No_Dot
+      - Hint - Tap/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap_No_Dot/Hint_Tap_No_Dot.lensanim
+      - Hint - Tap/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap_No_Dot/Hint_Tap_No_Dot.lensanim/Hint_Tap_No_Dot
+      - Hint - Tap/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap_No_Dot/Hint_Tap_No_Dot.lensanim/LPD_87_Hint_TAP_out_v01.png
+      - Hint - Tap/Custom Hint Resources/Scripts
+      - Hint - Tap/Custom Hint Resources/Scripts/CustomHint.js
+      - Hint - Tap/Hint - Tap.prefab
+      - Image 1.mat
+      - Image 10.mat
+      - Image 11.mat
+      - Image 12.mat
+      - Image 13.mat
+      - Image 14.mat
+      - Image 2.mat
+      - Image 7.mat
+      - Image 8.mat
+      - Image 9.mat
+      - Image.mat
+      - Image.png
+      - ImageMaterial 1.mat
+      - ImageMaterial 2.mat
+      - ImageMaterial.mat
+      - Segmentation Texture.segmentationTexture
+      - TapToChange.js
+      - flat.ss_graph
+      - image_unlit.ss_graph
+  options: 4

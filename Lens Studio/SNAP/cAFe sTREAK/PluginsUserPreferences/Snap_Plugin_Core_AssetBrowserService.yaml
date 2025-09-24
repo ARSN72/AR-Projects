@@ -1,0 +1,14 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 1dd21529-cfe5-460a-b4ac-c1ab6e176b53: "C:/Users/Arshan/SnapAR/3.jpg"
+    - 5b37dd83-5035-4a41-890b-c0991f25fbfb: "C:/Users/Arshan/SnapAR/2.jpg"
+    - 81385ee2-13e0-452b-b77a-43a9a4a631b7: "C:/Users/Arshan/SnapAR/10.jpg"
+    - ba8c14b4-924e-44c0-9857-8b9fa44f8ccd: "C:/Users/Arshan/SnapAR/6.jpg"
+    - c1cbefc2-6e28-4abd-9f79-228568d2d3db: "C:/Users/Arshan/SnapAR/7.jpg"
+    - d1cd1c43-9c7a-4cba-9ad7-e41d27e8bd17: "C:/Users/Arshan/SnapAR/4.jpg"
+    - ea58f5bb-52cd-41c0-bf8e-043a275989cb: "C:/Users/Arshan/SnapAR/9.jpg"
+    - ef2a53e3-c81c-4301-be88-d73cfe140c27: "C:/Users/Arshan/SnapAR/5.jpg"
+    - effc6e91-6452-4c74-a78c-9bb03ef9925f: "C:/Users/Arshan/SnapAR/1.jpg"
+    - ff71fba8-a38e-4896-aa17-9ac193024b4f: "C:/Users/Arshan/SnapAR/8.jpg"
+  options: 4

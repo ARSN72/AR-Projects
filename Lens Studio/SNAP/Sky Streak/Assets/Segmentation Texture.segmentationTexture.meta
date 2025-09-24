@@ -1,0 +1,14 @@
+- !<AssetImportMetadata/4c88c682-e0f5-4970-a310-5137bd57e1ff>
+  ImportedAssetIds:
+    Texture: !<reference> 2445ec9d-8f3e-4ecd-8446-b950deeea124
+  ImporterName: SegmentationTextureImporter
+  PrimaryAsset: !<reference> 2445ec9d-8f3e-4ecd-8446-b950deeea124
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/9a57a399-280c-4d03-be39-cd692940aff6>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

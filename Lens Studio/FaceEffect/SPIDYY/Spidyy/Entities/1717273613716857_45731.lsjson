@@ -1,0 +1,42 @@
+{
+    "1717273613714850:45730": {
+        "IFileManager": {
+            "path": "Files/File_1717273613714850_45730.png"
+        }
+    },
+    "1717273613716857:45731": {
+        "IResourceController": {
+            "name": "Heat",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717273613717175:45732",
+            "fileId": "1717273613714850:45730",
+            "originalId": "1717273613717472:45737",
+            "publicId": "1717273613721834:45741",
+            "expected_hash": "d2534f42b1e12974ad585c6de144ef39",
+            "additional": {
+                "originHash": "d2534f42b1e12974ad585c6de144ef39"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717273613717175:45732",
+            "name": "Files/File_1717273613714850_45730.png",
+            "flags": 1
+        }
+    },
+    "1717273613717472:45737": {
+        "IFileManager": {
+            "path": "Files/File_1717273613717472_45737.png"
+        }
+    },
+    "1717273613721834:45741": {
+        "IResourceController": {
+            "public": {
+                "path": "Heat.png",
+                "hash": "d2534f42b1e12974ad585c6de144ef39"
+            }
+        }
+    }
+}

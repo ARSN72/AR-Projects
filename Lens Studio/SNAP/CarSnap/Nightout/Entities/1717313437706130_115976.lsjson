@@ -1,0 +1,33 @@
+{
+    "1717313437701882:115973": {
+        "IFileManager": {
+            "path": "Files/File_1717313437701882_115973.ttf"
+        }
+    },
+    "1717313437706130:115976": {
+        "IResourceController": {
+            "name": "Raleway-Light",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717313437706147:115977",
+            "fileId": "1717313437701882:115973",
+            "publicId": "1717313437708045:115986",
+            "expected_hash": "010aae55eee63f16095bc47f7cffae1b"
+        },
+        "IResourceManager": {
+            "uid": "1717313437706147:115977",
+            "name": "Files/File_1717313437701882_115973.ttf",
+            "flags": 1
+        }
+    },
+    "1717313437708045:115986": {
+        "IResourceController": {
+            "public": {
+                "path": "Raleway-Light.ttf",
+                "hash": "010aae55eee63f16095bc47f7cffae1b"
+            }
+        }
+    }
+}

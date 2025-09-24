@@ -1,0 +1,79 @@
+{
+    "1717275920741101:3858": {
+        "IFileManager": {
+            "path": "Files/File_1717275920741101_3858.pvr"
+        }
+    },
+    "1717275920744024:3859": {
+        "IResourceController": {
+            "name": "face-mesh-a11",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717275920745312:3860",
+            "fileId": "1717275920741101:3858",
+            "originalId": "1717275920745901:3865",
+            "publicId": "1717275920832535:3882",
+            "expected_hash": "56a4dcfda0e6928b446935a1dc6452c7",
+            "additional": {
+                "originHash": "89300e9a500d0a709338079f82484f92"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717275920745312:3860",
+            "name": "Files/File_1717275920741101_3858.png",
+            "flags": 1
+        }
+    },
+    "1717275920745312:3860": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "89300e9a500d0a709338079f82484f92"
+                    },
+                    "v": "1717275973754622:13006"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2000000",
+                "compressedSize": "696611",
+                "extension": "png",
+                "originalRAM": "15984004",
+                "originalSize": "743875",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717275920799255:3876"
+        }
+    },
+    "1717275920745901:3865": {
+        "IFileManager": {
+            "path": "Files/File_1717275920745901_3865.png"
+        }
+    },
+    "1717275920799255:3876": {
+        "IFileManager": {
+            "path": "Files/File_1717275920799255_3876.png"
+        }
+    },
+    "1717275920832535:3882": {
+        "IResourceController": {
+            "public": {
+                "path": "face-mesh-a11.png",
+                "hash": "89300e9a500d0a709338079f82484f92"
+            }
+        }
+    },
+    "1717275973754622:13006": {
+        "IFileManager": {
+            "path": "Files/File_1717275973754622_13006.pvr"
+        }
+    }
+}

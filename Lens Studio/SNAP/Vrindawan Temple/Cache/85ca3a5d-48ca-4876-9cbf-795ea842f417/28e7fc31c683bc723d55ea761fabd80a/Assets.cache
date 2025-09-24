@@ -1,0 +1,14 @@
+- !<AssetCache/536117e9-223f-41dd-93ef-aa87b321667a>
+  AssetFiles:
+    e0dc6a54-2a5c-46e7-9057-16280f3f35cd: 85ca3a5d-48ca-4876-9cbf-795ea842f417/28e7fc31c683bc723d55ea761fabd80a/Data/Screenshot_20240622_184306_Instagram.jpg
+  AssetCurrentFiles:
+    e0dc6a54-2a5c-46e7-9057-16280f3f35cd: 85ca3a5d-48ca-4876-9cbf-795ea842f417/28e7fc31c683bc723d55ea761fabd80a/Data/Screenshot_20240622_184306_Instagram_performance_Medium.pvr
+  Assets:
+    - !<FileTexture/e0dc6a54-2a5c-46e7-9057-16280f3f35cd>
+      PackagePath: ""
+      Width: 1080
+      Height: 1872
+  SourceHash: 28e7fc31c683bc723d55ea761fabd80a
+  FileHash: 23193dced746044ac4df14bdadbb2f3d
+  NativePackageItems:
+    []

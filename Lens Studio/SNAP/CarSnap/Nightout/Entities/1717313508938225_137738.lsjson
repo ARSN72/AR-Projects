@@ -1,0 +1,33 @@
+{
+    "1717313508934968:137737": {
+        "IFileManager": {
+            "path": "Files/File_1717313508934968_137737.ttf"
+        }
+    },
+    "1717313508938225:137738": {
+        "IResourceController": {
+            "name": "Raleway-Bold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717313508938246:137739",
+            "fileId": "1717313508934968:137737",
+            "publicId": "1717313508939650:137744",
+            "expected_hash": "3b1a9a7b05c1e411253797b2fa3d1e91"
+        },
+        "IResourceManager": {
+            "uid": "1717313508938246:137739",
+            "name": "Files/File_1717313508934968_137737.ttf",
+            "flags": 1
+        }
+    },
+    "1717313508939650:137744": {
+        "IResourceController": {
+            "public": {
+                "path": "Raleway-Bold.ttf",
+                "hash": "3b1a9a7b05c1e411253797b2fa3d1e91"
+            }
+        }
+    }
+}

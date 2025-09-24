@@ -1,0 +1,36 @@
+studioVersion:
+  major: 5
+  minor: 0
+  patch: 14
+  build: 24061804
+updateCheckpoint: 37
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: No Simulation
+    cameraFov: 66.519997
+    fullFrameAspect: nan
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+  cameraType: Front
+metaInfo:
+  hints:
+    - lens_hint_look_down
+  lensName: Luxury Watchs
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+    - Spectacles
+    - CameraKit
+  iconHash: 578232a2c59c0b5db59d54f710c702eb
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.0.14.24061804
+  activationCamera: Front
+  hasVideoPreview: true
+  sourceMapEnabled: false

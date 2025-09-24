@@ -1,0 +1,13 @@
+- !<AssetCache/39862345-b581-08f5-ecaa-92cd94ad4817>
+  AssetFiles:
+    5332441b-38c7-49b1-8011-1a015bcb0c93: f3957e0e-4bae-4e71-918c-73e056688ad7/39862345b58108f5ecaa92cd94ad4817/Data/10.jpg
+  Assets:
+    - !<FileTexture/5332441b-38c7-49b1-8011-1a015bcb0c93>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 480
+        Height: 854
+  SourceHash: 39862345b58108f5ecaa92cd94ad4817
+  FileHash: 9f71fca95c9103b5f135ce8d5c12abbe
+  NativePackageItems:
+    []

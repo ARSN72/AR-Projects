@@ -1,0 +1,17 @@
+{
+    "1716887931586893:139291": {
+        "IResourceController": {
+            "name": "OverlayCameraRenderTarget",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1716887931586888:139290"
+        },
+        "IResourceManager": {
+            "uid": "1716887931586888:139290",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

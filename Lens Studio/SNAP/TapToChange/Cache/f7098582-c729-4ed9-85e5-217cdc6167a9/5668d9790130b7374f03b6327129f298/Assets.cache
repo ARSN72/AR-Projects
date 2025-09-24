@@ -1,0 +1,13 @@
+- !<AssetCache/5668d979-0130-b737-4f03-b6327129f298>
+  AssetFiles:
+    5b0db90b-3e44-4eee-b735-ae134f3216e2: f7098582-c729-4ed9-85e5-217cdc6167a9/5668d9790130b7374f03b6327129f298/Data/33.jpg
+  Assets:
+    - !<FileTexture/5b0db90b-3e44-4eee-b735-ae134f3216e2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1080
+        Height: 1440
+  SourceHash: 5668d9790130b7374f03b6327129f298
+  FileHash: 9e202dd9d6a304106b166aaa4f248527
+  NativePackageItems:
+    []

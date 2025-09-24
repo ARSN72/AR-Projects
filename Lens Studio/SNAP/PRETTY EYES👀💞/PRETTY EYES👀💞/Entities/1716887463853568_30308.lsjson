@@ -1,0 +1,79 @@
+{
+    "1716887463850839:30307": {
+        "IFileManager": {
+            "path": "Files/File_1716887463850839_30307.pvr"
+        }
+    },
+    "1716887463853568:30308": {
+        "IResourceController": {
+            "name": "Screenshot_20240528_040648_Instagram",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1716887463854853:30309",
+            "fileId": "1716887463850839:30307",
+            "originalId": "1716887463855675:30314",
+            "publicId": "1716887463897936:30326",
+            "expected_hash": "3b917ef659dfe37d49ba118ad5f19b34",
+            "additional": {
+                "originHash": "a4a2bf80ade68e8e683c28bc77828b7c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1716887463854853:30309",
+            "name": "Files/File_1716887463850839_30307.jpg",
+            "flags": 1
+        }
+    },
+    "1716887463854853:30309": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a4a2bf80ade68e8e683c28bc77828b7c"
+                    },
+                    "v": "1716887491556899:34724"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1038960",
+                "compressedSize": "537117",
+                "extension": "jpg",
+                "originalRAM": "8307360",
+                "originalSize": "631305",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1716887463874659:30320"
+        }
+    },
+    "1716887463855675:30314": {
+        "IFileManager": {
+            "path": "Files/File_1716887463855675_30314.jpg"
+        }
+    },
+    "1716887463874659:30320": {
+        "IFileManager": {
+            "path": "Files/File_1716887463874659_30320.jpg"
+        }
+    },
+    "1716887463897936:30326": {
+        "IResourceController": {
+            "public": {
+                "path": "Screenshot_20240528_040648_Instagram.jpg",
+                "hash": "a4a2bf80ade68e8e683c28bc77828b7c"
+            }
+        }
+    },
+    "1716887491556899:34724": {
+        "IFileManager": {
+            "path": "Files/File_1716887491556899_34724.pvr"
+        }
+    }
+}

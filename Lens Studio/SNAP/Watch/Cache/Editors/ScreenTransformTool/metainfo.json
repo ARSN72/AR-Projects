@@ -1,0 +1,70 @@
+{
+    "activation_camera": "front",
+    "additional_hint_ids": [
+    ],
+    "api_level": "private",
+    "categories": [
+        "LENS_CATEGORY_SELFIE",
+        "LENS_CATEGORY_SKY",
+        "4e456a9a-c69a-4b48-b087-2bc087c331a1"
+    ],
+    "compatibility_descriptors": [
+        "mobile"
+    ],
+    "contains_giphy": false,
+    "context": {
+        "applicability": [
+            "live_camera",
+            "video_chat",
+            "reply_camera"
+        ],
+        "camera": [
+            "front",
+            "rear"
+        ]
+    },
+    "core_version": 225,
+    "custom_components": {
+        "custom_components_asset_ids": [
+            ""
+        ],
+        "custom_components_export_ids": [
+            "1699998523247659:733180"
+        ],
+        "custom_components_ids": [
+            "1683748581131601:206728"
+        ],
+        "custom_components_names": [
+            "UI Scroll View"
+        ]
+    },
+    "from_template": {
+        "template_name": "Empty Project",
+        "template_url": "Lens Studio version 4.35.0"
+    },
+    "git_friendly": true,
+    "has_3d_face_mesh": false,
+    "has_retouch_with_auto": false,
+    "has_retouch_without_auto": false,
+    "hint_id": "",
+    "lens_descriptors": [
+    ],
+    "lens_name": "Untitled",
+    "minimum_lens_core_version": 225,
+    "minimum_sc_android_version": "12.50.0.0",
+    "minimum_sc_ios_version": "12.50.0.0",
+    "ml_assets": [
+    ],
+    "sg": false,
+    "studio_version": {
+        "build": "0",
+        "major": "4",
+        "minor": "55",
+        "patch": "0",
+        "type": "Internal"
+    },
+    "third_party": false,
+    "updated_at_timestamp": "1717713068964",
+    "use_snapcode_marker_tracking": false,
+    "use_world_mesh": false
+}

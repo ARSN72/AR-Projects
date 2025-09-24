@@ -1,0 +1,79 @@
+{
+    "1717313079442950:3672": {
+        "IFileManager": {
+            "path": "Files/File_1717313079442950_3672.pvr"
+        }
+    },
+    "1717313079445303:3673": {
+        "IResourceController": {
+            "name": "Snapchat-1939436358",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717313079446124:3674",
+            "fileId": "1717313079442950:3672",
+            "originalId": "1717313079446571:3680",
+            "publicId": "1717313079462230:3686",
+            "expected_hash": "243f2319400b314ce2ba616663fc07f3",
+            "additional": {
+                "originHash": "31b78f78e84ec0ae03bfde8f246d55ac"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717313079446124:3674",
+            "name": "Files/File_1717313079442950_3672.jpg",
+            "flags": 1
+        }
+    },
+    "1717313079446124:3674": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "6c598bfe7ad91badffe7d9870aeca286"
+                    },
+                    "v": "1717313111380518:8556"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1179648",
+                "compressedSize": "282037",
+                "extension": "jpg",
+                "originalRAM": "9437184",
+                "originalSize": "74910",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717313079453920:3685"
+        }
+    },
+    "1717313079446571:3680": {
+        "IFileManager": {
+            "path": "Files/File_1717313079446571_3680.jpg"
+        }
+    },
+    "1717313079453920:3685": {
+        "IFileManager": {
+            "path": "Files/File_1717313079453920_3685.jpg"
+        }
+    },
+    "1717313079462230:3686": {
+        "IResourceController": {
+            "public": {
+                "path": "Snapchat-1939436358.jpg",
+                "hash": "31b78f78e84ec0ae03bfde8f246d55ac"
+            }
+        }
+    },
+    "1717313111380518:8556": {
+        "IFileManager": {
+            "path": "Files/File_1717313111380518_8556.pvr"
+        }
+    }
+}

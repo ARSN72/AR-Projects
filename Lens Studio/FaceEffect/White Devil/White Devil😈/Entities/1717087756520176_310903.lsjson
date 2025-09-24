@@ -1,0 +1,79 @@
+{
+    "1717087756517595:310902": {
+        "IFileManager": {
+            "path": "Files/File_1717087756517595_310902.pvr"
+        }
+    },
+    "1717087756520176:310903": {
+        "IResourceController": {
+            "name": "656100e1c7d1f8d7a359990c_Svema-BW_Overlay",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717087756520994:310904",
+            "fileId": "1717087756517595:310902",
+            "originalId": "1717087756521472:310909",
+            "publicId": "1717087756546840:310911",
+            "expected_hash": "d9c61f61a4483e052d1d7fa894ab598e",
+            "additional": {
+                "originHash": "27184e1105dde10d0cd1da498e0744b2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1717087756520994:310904",
+            "name": "Files/File_1717087756517595_310902.jpg",
+            "flags": 1
+        }
+    },
+    "1717087756520994:310904": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8588a9763fbf0289bb937df180b6ce35"
+                    },
+                    "v": "1717087799794135:316180"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1400832",
+                "compressedSize": "834131",
+                "extension": "jpg",
+                "originalRAM": "11182080",
+                "originalSize": "283210",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1717087756531858:310910"
+        }
+    },
+    "1717087756521472:310909": {
+        "IFileManager": {
+            "path": "Files/File_1717087756521472_310909.jpg"
+        }
+    },
+    "1717087756531858:310910": {
+        "IFileManager": {
+            "path": "Files/File_1717087756531858_310910.jpg"
+        }
+    },
+    "1717087756546840:310911": {
+        "IResourceController": {
+            "public": {
+                "path": "656100e1c7d1f8d7a359990c_Svema-BW_Overlay.jpg",
+                "hash": "27184e1105dde10d0cd1da498e0744b2"
+            }
+        }
+    },
+    "1717087799794135:316180": {
+        "IFileManager": {
+            "path": "Files/File_1717087799794135_316180.pvr"
+        }
+    }
+}

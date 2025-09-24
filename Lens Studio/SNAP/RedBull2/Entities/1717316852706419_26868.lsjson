@@ -1,0 +1,17 @@
+{
+    "1717316852706419:26868": {
+        "IResourceController": {
+            "name": "Portrait Background Segmentation",
+            "type": 1,
+            "subtype": 14,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1717316852704921:26862"
+        },
+        "IResourceManager": {
+            "uid": "1717316852704921:26862",
+            "name": "Portrait Background Segmentation",
+            "flags": 0
+        }
+    }
+}

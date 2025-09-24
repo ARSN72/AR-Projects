@@ -1,0 +1,12 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 6
+    values:
+      - Image.mat
+      - Image.png
+      - Screenshot_20240624_105029_Instagram.jpg
+      - Segmentation Texture.segmentationTexture
+      - Snapchat-1368458313.jpg
+      - flat.ss_graph
+  options: 4
