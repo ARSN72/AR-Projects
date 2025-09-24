@@ -1,0 +1,43 @@
+{
+  "modelName": "texture",
+  "name": "Western",
+  "identifier": "texture:7165-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+  "sourceIdentifier": "color_lut_model:7163-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+  "alphaPremultiplicationMode": "none",
+  "assetDataHash": "31e79b7ef28e23ba47fb663d54631cee",
+  "assetLocator": "textures/Western.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:7167-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+    "textureExportConfig:7169-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+    "textureExportConfig:7171-20fa1bea-f285-41ce-9a28-ff25d39c6824"
+  ],
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 32,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "31e79b7ef28e23ba47fb663d54631cee",
+      "colorCount": 28754,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 14.697031341880141,
+      "pixelsHigh": 32,
+      "pixelsWide": 1024
+    }
+  ]
+}

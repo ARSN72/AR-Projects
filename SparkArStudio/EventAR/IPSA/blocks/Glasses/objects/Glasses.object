@@ -1,0 +1,83 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Glasses",
+  "identifier": "master3_d_object_model:433-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+  "sourceIdentifier": "asset_collection_model:437-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "globalScaleFactor": 1,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Glasses",
+      "identifier": "mesh:422-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:428-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": -0.0001743702741805464
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:424-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:431-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:418-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7",
+              "surfaceGroupIdentifier": ""
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:426-687aa3ac-9e98-4c07-a2a8-69b2fd5d0fd7"
+        }
+      ]
+    }
+  ]
+}

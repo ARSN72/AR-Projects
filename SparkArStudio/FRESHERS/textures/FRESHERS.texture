@@ -1,0 +1,42 @@
+{
+  "modelName": "texture",
+  "name": "FRESHERS",
+  "identifier": "texture:5862-bf865e7d-14b7-4af0-b9a9-ca309e34e304",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "fbdcb2550d43a20a3f18e275fa541197",
+  "assetLocator": "textures/FRESHERS.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:17443-13e8e986-650c-450b-9f89-6fd12d89c7b8",
+    "textureExportConfig:17723-13e8e986-650c-450b-9f89-6fd12d89c7b8",
+    "textureExportConfig:18005-13e8e986-650c-450b-9f89-6fd12d89c7b8"
+  ],
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 62,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 280,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "fbdcb2550d43a20a3f18e275fa541197",
+      "colorCount": 779,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.077975266892676,
+      "pixelsHigh": 62,
+      "pixelsWide": 280
+    }
+  ]
+}

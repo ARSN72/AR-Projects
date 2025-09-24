@@ -1,0 +1,37 @@
+{
+  "modelName": "texture",
+  "name": "XvArjaiw",
+  "identifier": "texture:3761-bf865e7d-14b7-4af0-b9a9-ca309e34e304",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "cd63e28cdb3c8f93d2e766ce0bb944fb",
+  "assetLocator": "textures/XvArjaiw.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "cd63e28cdb3c8f93d2e766ce0bb944fb",
+      "colorCount": 8386,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.612391033505604,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}

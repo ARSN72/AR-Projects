@@ -1,0 +1,76 @@
+{
+  "modelName": "defaultMaterial",
+  "name": "Logo",
+  "identifier": "defaultMaterial:9977-be26f56d-7a13-4745-ae6a-b4d2c50e38f4",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "blendMode": "alpha",
+  "colorEncoding": "linear",
+  "cullMode": "back",
+  "diffuseFactor": "0xffffffff",
+  "diffuseTextureName": "texture:1923-07f8f665-17ce-4b1e-bfe5-bcc757373636",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "emissiveEnabled": false,
+  "emissiveFactor": "0xff000000",
+  "emissiveTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "importIssues": {},
+  "invertMultiply": false,
+  "isDiffuseTextureIdentifierEnabled": true,
+  "isEmissiveTextureIdentifierEnabled": false,
+  "isMultiplyTextureIdentifierEnabled": false,
+  "isNormalTextureIdentifierEnabled": false,
+  "isReflectiveTextureIdentifierEnabled": false,
+  "isSpecularTextureIdentifierEnabled": false,
+  "lightingEnabled": true,
+  "multiplyMode": "alpha_only",
+  "multiplyTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "normalTextureScale": 1,
+  "normalTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "readDepth": true,
+  "reflectiveTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "shininessFactor": 1,
+  "specularTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}

@@ -1,0 +1,42 @@
+{
+  "modelName": "texture",
+  "name": "EVENTTT",
+  "identifier": "texture:5623-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "386fa78fe34194e09182c1d048f5db98",
+  "assetLocator": "textures/EVENTTT.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:5787-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+    "textureExportConfig:5953-20fa1bea-f285-41ce-9a28-ff25d39c6824",
+    "textureExportConfig:6121-20fa1bea-f285-41ce-9a28-ff25d39c6824"
+  ],
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 458,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "386fa78fe34194e09182c1d048f5db98",
+      "colorCount": 2853,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.074549362299766,
+      "pixelsHigh": 1024,
+      "pixelsWide": 458
+    }
+  ]
+}

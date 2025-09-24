@@ -1,0 +1,42 @@
+{
+  "modelName": "texture",
+  "name": "LOGO",
+  "identifier": "texture:9385-be26f56d-7a13-4745-ae6a-b4d2c50e38f4",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c65d7d6d33f5820433d659c84799f322",
+  "assetLocator": "textures/LOGO.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:9529-be26f56d-7a13-4745-ae6a-b4d2c50e38f4",
+    "textureExportConfig:9675-be26f56d-7a13-4745-ae6a-b4d2c50e38f4",
+    "textureExportConfig:9823-be26f56d-7a13-4745-ae6a-b4d2c50e38f4"
+  ],
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 899,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c65d7d6d33f5820433d659c84799f322",
+      "colorCount": 28118,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 7.324145180908274,
+      "pixelsHigh": 899,
+      "pixelsWide": 1024
+    }
+  ]
+}
